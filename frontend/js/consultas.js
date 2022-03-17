@@ -7,7 +7,7 @@ const indexPet = document.getElementById("pet-index");
 const btnGuardar = document.getElementById("btnSave");
 const formulario = document.getElementById("formulario");
 
-const url = "http://localhost:8000";
+const url = "http://veterinaria-backend-red-eight.vercel.app";
 
 let consultas = [];
 let mascotas = [];
