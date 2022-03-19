@@ -4,7 +4,7 @@ const namePet = document.getElementById("pet-name");
 const typePet = document.getElementById("pet-type");
 const ownerPet = document.getElementById("pet-owner");
 const indexPet = document.getElementById("pet-index");
-const url = "http://veterinaria-backend-red-eight.vercel.app/mascotas";
+const url = "https://veterinaria-backend-red-eight.vercel.app/mascotas";
 
 let pets = [];
 

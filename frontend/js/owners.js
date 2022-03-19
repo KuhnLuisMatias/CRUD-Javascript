@@ -6,7 +6,7 @@ const country = document.getElementById("owner-country");
 const btnSave = document.getElementById("btnSave");
 const btnEdit = document.getElementById("btnEdit");
 const indexOwner = document.getElementById("owner-index");
-const url = "http://localhost:8000/duenos";
+const url = "https://localhost:8000/duenos";
 
 let owners = [];
 

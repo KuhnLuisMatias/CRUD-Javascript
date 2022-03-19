@@ -6,7 +6,7 @@ const country = document.getElementById("veterianarian-country");
 const btnSave = document.getElementById("btnSave");
 const btnEdit = document.getElementById("btnEdit");
 const indexVeterinarian = document.getElementById("veterianarian-index");
-const url = "http://veterinaria-backend-red-eight.vercel.app/veterinarias";
+const url = "https://veterinaria-backend-red-eight.vercel.app/veterinarias";
 
 let veterinarians = [];
 
